@@ -38,7 +38,6 @@ nav a:hover{
     color:rgba(81, 40, 105, 0.295)
 }
 
-
 .nav_bar{
     width: 100%;
     margin: 0 auto;
@@ -47,4 +46,12 @@ nav a:hover{
 .title {
     font-size: 46pt;
     color: rgb(155, 170, 170);
+}
+
+.welcome{
+    color: rgb(155, 170, 170);
+}
+
+.git{
+    color:#6cd4b5
 }
